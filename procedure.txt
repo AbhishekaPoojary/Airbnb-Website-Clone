@@ -1,0 +1,21 @@
+1. npn init -y : package.json 
+2. npm i express: express
+3. npm i ejs : pacakge-lock.json
+4. npm i mongoose 
+5. npm i method-override : to convet post method to put method in edit route
+6. npm i ejs-mate : it helps to create layout(template)
+7. npm i joi : to write server side schema
+8. npm i cookie-parser : to require cookies
+9. npm install connect-flash: alert messgaes
+10. npm i express-session
+11. npm i passport: authentication middleware
+12. npm i passport-local
+13. npm i  passport-local-mongoose 
+14. npm i multer : to send mulipart data in the form (image upload)
+15. npm i dotenv: to secret the password
+16. npm install cloudinary
+17. npm install multer-storage-cloudinary
+18. npm i cloudinary
+
+19. npm install @mapbox/mapbox-sdk --legacy-peer-deps : for geocoding
+20. npm i connect-mongo --force --legacy-peer-deps : to deploy
